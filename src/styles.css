@@ -1,0 +1,12 @@
+/* You can add global styles to this file, and also import other style files */
+html, body { height: 120%;    background-color: #F6F7FB;
+}
+body { margin: 0; }
+.main{
+    background-color: #FFFFFF;
+}
+.back{
+    width: 900px;
+    margin-left: 20px;
+}
+

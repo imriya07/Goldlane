@@ -1,0 +1,65 @@
+.digital{
+    color: #3B325F;
+    font-weight: 700;
+    font-size: 34px;
+    line-height: 45px;
+}
+.with{
+    color: #3B325F;
+    font-weight: 400;
+    font-size: 18px;
+    opacity: 0.8;
+}
+.path{
+    height: 16px;
+    margin-left: 27px;
+    margin-top: 70px;
+}
+.bought{
+    margin-left: 28px;
+    font-size: 20px;
+    color:#3B325F;
+    opacity: 0.8;
+    line-height: 30px;
+}
+.card{
+    border-radius: 10px;
+    box-shadow: 6px 6px 8px #200A821A;
+    border: none;
+    background-color: #FFFFFF;
+    opacity: 100%;
+    margin-left: 0px;
+    margin-top: 40px; 
+}
+.hall{
+    margin-left: 20px;
+}
+.purity{
+    color: #3B325F;
+    font-size: 23px;
+    font-weight: 700;
+    opacity: 1;
+    margin-left: 32px;
+}
+.about{
+    font-size: 15px;
+    margin-left: 32px;
+    color: #3B325F;
+    opacity: 0.7;
+    line-height: 20px;
+}
+.cardClass1{
+    margin-top: -5px;
+    margin-left: 10px;
+}
+.path1{
+    margin-top: 120px;
+    margin-left: 27px;
+    height: 16px;
+}
+.cardClass2{
+    margin-left: 15px;
+}
+.cardClass3{
+    margin-top: 15px;
+}
